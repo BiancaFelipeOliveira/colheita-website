@@ -44,7 +44,6 @@ A API realiza operações **CRUD** (*Create, Read, Update e Delete*) para os seg
 
 O site foi desenvolvido para facilitar a interação com a API, permitindo que qualquer pessoa consiga utilizar o sistema de forma prática.
 
-
 ![gravacao-tel (2) (online-video-cutter com)](https://github.com/user-attachments/assets/b7ac8894-640b-43f9-bb42-83572ed418f6)
 
 
