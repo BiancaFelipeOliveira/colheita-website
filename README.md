@@ -146,6 +146,7 @@ curl -X POST http://localhost:3000/api/producers \
 
 * **Ana Catarina Mezzalira Romanosk Ribeiro** – Desenvolvimento da API.
 * **Bianca Felipe de Oliveira** – Desenvolvimento do front-end e integração com a API.
+* **Isabella Tamasi Lima** - Definição do projeto e diagramação.
 
 ---
 
